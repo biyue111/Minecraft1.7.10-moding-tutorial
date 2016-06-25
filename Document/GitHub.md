@@ -14,7 +14,7 @@ Windows [GitHub客户端](https://desktop.github.com/)
 
 用自己的email和名称替换命令最后useremail和username
 
-`git clone`
+克隆到本地：`git clone`
 
 `git add`
 
