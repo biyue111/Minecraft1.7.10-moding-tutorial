@@ -2,7 +2,7 @@
 其实主要是给自己看，希望自己不要忘了mod怎么做。目录里没有链接的是依然没有填好坑的。
 
 ##下载##
-
+[百度云下载](https://pan.baidu.com/s/1dFhXk9z) 提取码：f5pw
 ##目录##
 ###0.准备工作###
 1. [GitHub教程](/Document/GitHub.md/)
@@ -13,3 +13,9 @@
 2. 加入一个物品
 3. 加入一个方块
 4. 加入一个合成
+
+##其他教程##
+###文字教程###
+[Generic Mod](http://www.minecraftforge.net/wiki/Basic_Modding)（英文）
+###视频教程###
+[Minecraft 1.7: Modding Tutorial](https://www.youtube.com/watch?v=0ULz-oCUbEg)（英文）
