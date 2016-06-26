@@ -1,20 +1,25 @@
 #建立工作环境#
 
+##前置教程##
+这明显是第一章，没有前置教程~~
+
+[返回教程目录](Readme.md)
+
 ##软件下载##
-首先，大家需要下载相关软件，链接如下：
+首先，大家需要下载相关软件，括号中是w我是使用的版本，链接如下：
 
-[Forge下载](http://files.minecraftforge.net/)
+[Forge下载](http://files.minecraftforge.net/)（forge-1.7.10-10.13.4.1558-1.7.10-src）
 
-[eclipse官网](https://eclipse.org/downloads/)
+[eclipse官网](https://eclipse.org/downloads/)（eclipse-inst-win64）
 
-[Java下载](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[Java下载](http://www.oracle.com/technetwork/java/javase/downloads/index.html)（jdk-8u91-windows-x64）
 
 也可以直接从我网盘上下载：
-
+[百度云下载](https://pan.baidu.com/s/1dFhXk9z)。其中也有一些其他的辅助工具，在之后的教程中会陆续提到。
 
 
 ##Java安装##
-参看链接
+安装Java一般分为**安装JDK**和**设置环境变量**两步，非常简单。具体过程可以参看[链接](http://jingyan.baidu.com/article/e75aca85b29c3b142edac6a8.html)。
 
 ##安装Eclipse##
 Eclipse是一款免费的程序开发管理软件，其功能很强大。下载之后选择安装**Eclipse IDE for Java Developers**（一般是第一项）。
