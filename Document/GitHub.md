@@ -14,19 +14,19 @@ Windows [GitHub客户端](https://desktop.github.com/)
 
 用自己的email和名称替换命令最后useremail和username
 
-克隆到本地：`git clone`
+`git clone` 克隆到本地
 
-`git add`
+`git add` 将文件加入到仓库记录中
 
-`git status`
+`git status` 查看状态
 
-`git commit`
+`git commit` 
  
-`git commit -a -m` 
+`git commit -a -m ""` 
 
-`git push`
+`git push` 将本地修改“推”到远程仓库中
 
-`git pull`
+`git pull` 将远程仓库中的修改“拉”到本地仓库
 
 ##参考教程##
 [Git命令详解](http://blog.csdn.net/windows_nt/article/details/24557831)

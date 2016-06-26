@@ -12,9 +12,10 @@
 
 
 ##Java安装##
+参看链接
 
 ##安装Eclipse##
-* Eclipse是一款免费的程序开发管理软件，其功能很强大。下载之后选择安装**Eclipse IDE for Java Developers**（一般是第一项）。
+Eclipse是一款免费的程序开发管理软件，其功能很强大。下载之后选择安装**Eclipse IDE for Java Developers**（一般是第一项）。
 
 ##建立Forge##
 * 将压缩包解压，可以看到以下内容：
@@ -30,11 +31,11 @@
 	系统会安装eclipse环境，大约需要5分钟。大功告成！
 
 ##启动Eclipse##
-都安装好后，就可以打开Eclipse了，这时Eclipse会提示用户选择路径，选择之前解压好的forge文件夹里的eclipse文件夹即可
+都安装好后，就可以打开Eclipse了，这时Eclipse会提示用户选择路径，选择之前解压好的forge文件夹里的eclipse文件夹即可，主要不要弄错文件夹，加粗强调一遍：
 **forge/eclipse**。
 打开之后，如果能在左侧看到一个**Minecraft**文件夹，说明之前的操作都没有什么问题。
 
 展开后可以看到一大坨文件和文件夹，其中有两个比较重。一个是**src**文件夹，这是用来存放用户编写的mod的文件夹。另外一个是``,其中保存了反编译的minecraft的源代码。
 
 ##可以参考的其他教程##
-其实forge中gradlew.bat文件有很多
+其实forge中gradlew.bat文件有很多其他功能，能帮助用户更好的开发。可以参看下列资料：
