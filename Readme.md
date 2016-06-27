@@ -15,8 +15,12 @@
 3. 加入一个方块
 4. 加入一个合成
 
-##其他教程##
+##参考教程##
+下面列举了其他关于MC modding的教程，供大家参考。
 ###文字教程###
 [Generic Mod](http://www.minecraftforge.net/wiki/Basic_Modding)（英文）
 ###视频教程###
 [Minecraft 1.7: Modding Tutorial](https://www.youtube.com/watch?v=0ULz-oCUbEg)（英文）
+
+##其他教程##
+下面的教程不是modding的教程，而是一些辅助工具的教程和minecraft相关资料的网址。
