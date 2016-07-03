@@ -15,6 +15,7 @@ import tutorial.comm.ClientProxy;
 import tutorial.comm.CommonProxy;
 
 import tutorial.beginitem.BeginItem;
+import tutorial.beginmob.EntityBegin;
 
 @Mod(modid = Modcst.MODID, name = Modcst.NAME, version = Modcst.VERSION)
 public class Beginner {
@@ -31,6 +32,7 @@ public class Beginner {
 	{
 		beginItem = new BeginItem().setUnlocalizedName("beginItem").setTextureName("beginner:beginItem");
 		GameRegistry.registerItem(beginItem, beginItem.getUnlocalizedName());
+		EntityBegin.mainRegisty();
 	}
 	
 	@EventHandler
