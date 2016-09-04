@@ -26,5 +26,3 @@
 ##其他教程##
 下面的教程不是modding的教程，而是一些辅助工具的教程和minecraft相关资料的网址。
 =======
-Ca sert a rien
->>>>>>> d2645e5d5b31bf802589b57cc8a8a0b55392eda3
